@@ -4,4 +4,6 @@
 2. extract on C: and rename the folder into "ffmpeg"
 3. Done,  that it
 
-# Tips : main-mp3 for file.mp3, main-wav for file.wav, main-app (GUI) for lazy people
+# or Download exe file : [Here]() 
+
+# Tips : main-mp3 for file.mp3 and main-wav for file.wav
