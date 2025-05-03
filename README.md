@@ -4,6 +4,6 @@
 2. extract on C: and rename the folder into "ffmpeg"
 3. Done,  that it
 
-# or Download exe file : [Here]() 
+# or Download exe file : [Here](https://github.com/Juqika/yt-to-mp3/releases) 
 
 # Tips : main-mp3 for file.mp3 and main-wav for file.wav
